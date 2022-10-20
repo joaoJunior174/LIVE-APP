@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. Este projeto faz parte de um aplicativo simples de cadastro de cliente e login para um live chat, feito totalmente em nest.js junto com react, presente em outro repo
+Este projeto faz parte de um aplicativo simples de cadastro de cliente e login para um live chat, feito totalmente em nest.js junto com react, presente em outro repo. Aqui, foi utilizado mongoDb, userguard, jwt, socket.io e etc.
 
 ## Installation
 
